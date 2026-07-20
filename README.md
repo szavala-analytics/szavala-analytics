@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="blob:https://gemini.google.com/da7960b4-94ea-436e-a1db-376b3b46059e"
+<img src="https://static.wixstatic.com/media/729282_a5068a9fbf214006bf0c44fc175f9087~mv2.gif" width="550"/>
 type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sheynner%20Zavala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Datos%20%26%20Desarrollador%20Full-Stack&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
