@@ -37,9 +37,8 @@ Especializado en convertir datos complejos en soluciones tecnológicas escalable
 
 <img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="50"/> &nbsp;
 <img src="https://cdn.simpleicons.org/pandas/150458" height="50" title="Pandas"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="52"/>&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52"/>&nbsp;
 </p>
 **Machine Learning & Visión por Computadora**
 
