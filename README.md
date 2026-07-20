@@ -1,14 +1,18 @@
 <div align="center">
 
-# Sheynner Zavala
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sheynner%20Zavala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Datos%20%26%20Desarrollador%20Full-Stack&descAlignY=55&descSize=20" width="100%"/>
 
-### Analista de Datos & Desarrollador Full-Stack
+<a href="https://sheynner-dev.github.io/cv/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Transformo+datos+complejos+en+soluciones+de+alto+impacto;Python+%7C+Machine+Learning+%7C+Power+BI;React+%7C+Node.js+%7C+Microsoft+Azure;Del+an%C3%A1lisis+estad%C3%ADstico+al+software+de+producci%C3%B3n" alt="Typing SVG" />
+</a>
 
-*Transformo datos complejos en soluciones digitales de alto impacto*
+<br/>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sheynner-dev.github.io/cv/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheynner-zavala-48588832a/)
-[![Gmail](https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a)](https://sheynner-dev.github.io/cv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/sheynner-zavala-48588832a/)
+[![Gmail](https://img.shields.io/badge/zavalasheynner@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:zavalasheynner@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
 </div>
 
@@ -27,47 +31,32 @@ Especializado en convertir datos complejos en soluciones tecnológicas escalable
 
 ## Stack Tecnológico
 
+<div align="center">
+
 **Análisis de Datos**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,postgres,pandas&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="47"/> &nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="47"/>
 
 **Machine Learning & Visión por Computadora**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="47"/>
 
 **Desarrollo Web & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,php,kotlin,androidstudio&theme=dark" />
 
 **Bases de Datos & Nube**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,azure,docker&theme=dark" />
 
 **Ciberseguridad & Herramientas**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kali,wireshark,git,figma,jira&theme=dark" />
+
+</div>
 
 ---
 
@@ -141,3 +130,9 @@ Formación en desarrollo de sistemas empresariales, arquitectura de software, me
 
 - **Español** — Nativo
 - **Inglés** — Básico
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+</div>
