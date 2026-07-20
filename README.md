@@ -18,9 +18,13 @@
 
 ---
 
-## Sobre mí
+## Engineering Profile
 
-Especializado en convertir datos complejos en soluciones tecnológicas escalables mediante arquitecturas modernas. Combino el análisis estadístico con el desarrollo de software para reducir costos operativos y maximizar la eficiencia del negocio, transformando requerimientos en sistemas funcionales, seguros y listos para escalar.
+Analista de datos y desarrollador Full Stack enfocado en crear soluciones escalables mediante análisis de datos, inteligencia artificial y computación en la nube.
+
+Especializado en transformar datos sin procesar en sistemas de apoyo a la toma de decisiones utilizando aprendizaje automático (Machine Learning), inteligencia empresarial (Business Intelligence) y arquitecturas de software modernas.
+
+Motivado por la automatización, la optimización del rendimiento y la creación de productos digitales de alto impacto.
 
 - Estudiante de Ingeniería de Software en **SENATI - Talara** (2023 - actualidad)
 - Enfocado en **Data & AI**: Python, Machine Learning, Power BI y analítica aplicada a la toma de decisiones
@@ -29,39 +33,118 @@ Especializado en convertir datos complejos en soluciones tecnológicas escalable
 
 ---
 
-## Stack Tecnológico
+# AI • Data • Cloud • Software
 
 <div align="center">
 
-**Análisis de Datos**
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="50"/> &nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" height="50" title="Pandas"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="52"/>&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52"/>&nbsp;
+### Data Analytics
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52"/>
 </p>
-**Machine Learning & Visión por Computadora**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" height="50"/> &nbsp;
-<img src="https://cdn.simpleicons.org/keras/D00000" height="50" title="Keras"/>
+</td>
 
-**Desarrollo Web & Mobile**
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,php,kotlin,androidstudio&theme=dark" height="50"/>
+### Machine Learning
 
-**Bases de Datos & Nube**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="52"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/keras/D00000" width="52"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,azure,docker&theme=dark" height="50"/>
+</td>
+</tr>
 
-**Ciberseguridad & Herramientas**
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,git,figma&theme=dark" height="50"/> &nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50" title="Wireshark"/> &nbsp;
-<img src="https://cdn.simpleicons.org/jira/0052CC" height="50" title="Jira"/>
+### Full Stack
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52"/>
+
+</p>
+
+</td>
+
+<td align="center">
+
+### Cloud & Databases
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### Cybersecurity & Tools
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="52"/>
+
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
 
 ## Proyectos Destacados
 
