@@ -29,6 +29,21 @@ Especializado en convertir datos complejos en soluciones tecnológicas escalable
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=szavala-analytics&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0F2027&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&ring_color=2C5364" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szavala-analytics&layout=compact&hide_border=true&bg_color=0F2027&title_color=00F0FF&text_color=ffffff&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=szavala-analytics&hide_border=true&background=0F2027&stroke=2C5364&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b9bb4" width="80%"/>
+
+</div>
+
+> Las tarjetas de arriba se generan en vivo a partir de tu actividad real en GitHub — cada commit, PR o proyecto nuevo que subas se refleja automáticamente la próxima vez que alguien cargue tu perfil, sin que tengas que editar nada.
+
+---
+
 ## Stack Tecnológico
 
 <div align="center">
