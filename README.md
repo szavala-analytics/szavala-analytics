@@ -52,7 +52,7 @@ Motivado por la automatización, la optimización del rendimiento y la creación
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="52"/>
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="52"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="52"/>
 </p>
 
 </td>
