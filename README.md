@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sheynner%20Zavala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Datos%20%26%20Desarrollador%20Full-Stack&descAlignY=55&descSize=20" width="100%"/>](https://capsule-render.vercel.app/api?type=shark&height=250&color=gradient&text=Sheynner%20Zavala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Desarrollador%20Full-Stack&section=header&reversal=true&fontAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sheynner%20Zavala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Datos%20y%20Desarrollador%20Full-Stack&section=header" width="100%"/>
 
 <p align="center">
 <a href="https://sheynner-dev.github.io/cv/">
