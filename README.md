@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sheynner%20Zavala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Datos%20%26%20Desarrollador%20Full-Stack&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://sheynner-dev.github.io/cv/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Transformo+datos+complejos+en+soluciones+de+alto+impacto;Python+%7C+Machine+Learning+%7C+Power+BI;React+%7C+Node.js+%7C+Microsoft+Azure;Del+an%C3%A1lisis+estad%C3%ADstico+al+software+de+producci%C3%B3n" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=850&lines=Transformo+datos+complejos+en+soluciones+de+alto+impacto;Python+%7C+Machine+Learning+%7C+Power+BI;React+%7C+Node.js+%7C+Microsoft+Azure;Del+an%C3%A1lisis+estad%C3%ADstico+al+software+de+producci%C3%B3n" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -52,7 +52,7 @@ Motivado por la automatización, la optimización del rendimiento y la creación
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="52"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="52"/>
 </p>
 
 </td>
