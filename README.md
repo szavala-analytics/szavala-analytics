@@ -1,31 +1,18 @@
-<div align="center">
-
-<img src="https://static.wixstatic.com/media/729282_a5068a9fbf214006bf0c44fc175f9087~mv2.gif" width="420"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sheynner%20Zavala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Datos%20y%20Desarrollador%20Full-Stack&section=header" width="100%"/>
-
 <p align="center">
+
 <a href="https://sheynner-dev.github.io/cv/">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=1100&height=70&lines=Transformo+datos+complejos+en+soluciones+de+alto+impacto;Python+%7C+Machine+Learning+%7C+Power+BI;React+%7C+Node.js+%7C+Microsoft+Azure;Del+an%C3%A1lisis+estad%C3%ADstico+al+software+de+producci%C3%B3n"
-    alt="Typing SVG"
-  />
+<img src="https://img.shields.io/badge/PORTAFOLIO-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a"/>
 </a>
+
+<a href="https://www.linkedin.com/in/sheynner-zavala-48588832a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
+</a>
+
+<a href="mailto:zavalasheynner@gmail.com">
+<img src="https://img.shields.io/badge/ZAVALASHEYNNER%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/>
+</a>
+
 </p>
-
-</div>
-
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a)](https://sheynner-dev.github.io/cv/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/sheynner-zavala-48588832a/)
-[![Gmail](https://img.shields.io/badge/zavalasheynner@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:zavalasheynner@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
-
-</div>
-
----
 
 ## Engineering Profile
 
