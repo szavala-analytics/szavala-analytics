@@ -31,7 +31,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3"/>
 
 </div>
-## Engineering Profile
+# Engineering Profile
 
 Analista de datos y desarrollador Full Stack enfocado en crear soluciones escalables mediante análisis de datos, inteligencia artificial y computación en la nube.
 
