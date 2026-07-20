@@ -3,9 +3,15 @@
 <img src="blob:https://gemini.google.com/da7960b4-94ea-436e-a1db-376b3b46059e"
 type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sheynner%20Zavala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Datos%20%26%20Desarrollador%20Full-Stack&descAlignY=55&descSize=20" width="100%"/>
 
+<p align="center">
 <a href="https://sheynner-dev.github.io/cv/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=00F0FF&width=900&lines=Transformo+datos+complejos+en+soluciones+de+alto+impacto;Python+|+Machine+Learning+|+Power+BI;React+|+Node.js+|+Microsoft+Azure;Del+analisis+estadistico+al+software+de+produccion" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1100&height=70&lines=Transformo+datos+complejos+en+soluciones+de+alto+impacto;Python+%7C+Machine+Learning+%7C+Power+BI;React+%7C+Node.js+%7C+Microsoft+Azure;Del+an%C3%A1lisis+estad%C3%ADstico+al+software+de+producci%C3%B3n"
+    alt="Typing SVG"
+  />
 </a>
+</p>
+
 <br/>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a)](https://sheynner-dev.github.io/cv/)
