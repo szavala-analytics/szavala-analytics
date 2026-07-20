@@ -44,36 +44,117 @@ Especializado en convertir datos complejos en soluciones tecnológicas escalable
 
 ---
 
-## Stack Tecnológico
+# ⚡ Tech Ecosystem
 
 <div align="center">
 
-**Análisis de Datos**
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,pandas&theme=dark" /> &nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="47"/> &nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="47"/>
+### 📊 Data Analytics
 
-**Machine Learning & Visión por Computadora**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" /> &nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="47"/>
+</td>
 
-**Desarrollo Web & Mobile**
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,php,kotlin,androidstudio&theme=dark" />
+### 🤖 Machine Learning
 
-**Bases de Datos & Nube**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="52"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/keras/D00000" width="52"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,azure,docker&theme=dark" />
+</td>
+</tr>
 
-**Ciberseguridad & Herramientas**
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,wireshark,git,figma,jira&theme=dark" />
+### 🌐 Full Stack
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52"/>
+
+</p>
+
+</td>
+
+<td align="center">
+
+### ☁ Cloud & Databases
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52"/>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🔐 Cybersecurity & Tools
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="52"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="52"/>
+
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 ## Proyectos Destacados
 
