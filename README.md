@@ -29,132 +29,39 @@ Especializado en convertir datos complejos en soluciones tecnológicas escalable
 
 ---
 
-## GitHub Analytics
+## Stack Tecnológico
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=szavala-analytics&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0F2027&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&ring_color=2C5364" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szavala-analytics&layout=compact&hide_border=true&bg_color=0F2027&title_color=00F0FF&text_color=ffffff&langs_count=8" />
+**Análisis de Datos**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=szavala-analytics&hide_border=true&background=0F2027&stroke=2C5364&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b9bb4" width="80%"/>
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="50"/> &nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="50" title="Pandas"/> &nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50" title="Power BI"/> &nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50" title="Excel"/>
+
+**Machine Learning & Visión por Computadora**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" height="50"/> &nbsp;
+<img src="https://cdn.simpleicons.org/keras/D00000" height="50" title="Keras"/>
+
+**Desarrollo Web & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,django,php,kotlin,androidstudio&theme=dark" height="50"/>
+
+**Bases de Datos & Nube**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,azure,docker&theme=dark" height="50"/>
+
+**Ciberseguridad & Herramientas**
+
+<img src="https://skillicons.dev/icons?i=kali,git,figma&theme=dark" height="50"/> &nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50" title="Wireshark"/> &nbsp;
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="50" title="Jira"/>
 
 </div>
-
-> Las tarjetas de arriba se generan en vivo a partir de tu actividad real en GitHub — cada commit, PR o proyecto nuevo que subas se refleja automáticamente la próxima vez que alguien cargue tu perfil, sin que tengas que editar nada.
 
 ---
-
-# ⚡ Tech Ecosystem
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 📊 Data Analytics
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52"/>
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52"/>
-</p>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🤖 Machine Learning
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="52"/>
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/keras/D00000" width="52"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🌐 Full Stack
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52"/>
-
-</p>
-
-</td>
-
-<td align="center">
-
-### ☁ Cloud & Databases
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52"/>
-
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-### 🔐 Cybersecurity & Tools
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="52"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="52"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="52"/>
-
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ## Proyectos Destacados
 
